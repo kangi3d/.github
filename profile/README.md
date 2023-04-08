@@ -84,6 +84,8 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 
 [申し込みフォーム]（Google Form）
 
+<img src="../img/../image/QR.png" width=200>
+
 
 
 <!-- links -->
@@ -104,5 +106,5 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 [Visual Studio]: https://visualstudio.microsoft.com/ja/
 [GCP]: https://cloud.google.com
 [OpenCV]: https://opencv.org/
-[申し込みフォーム]: TODO:後で書く
+[申し込みフォーム]: https://forms.gle/CtgV4WXCiEQxFXbA7
 <!-- links -->
