@@ -4,11 +4,6 @@
     </a>
 </h1>
 
-<h1 style="font-weight:normal">
-    <a href="http://www.kangi3d.com/">
-        <img src="https://user-images.githubusercontent.com/66750091/230723032-f4a88a9b-f90e-4924-b495-4fa5d962e14c.jpg" width=170>
-    </a>
-</h1>
 
 これはプログラマ向けページです。
 
