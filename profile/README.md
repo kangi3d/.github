@@ -1,6 +1,6 @@
 <h1 style="font-weight:normal">
     <a href="http://www.kangi3d.com/">
-        <img src="../image/LOGO.jpg" width=170>
+        <img src="https://user-images.githubusercontent.com/66750091/235298428-0c45985a-2903-431c-b19d-91bbef5295a6.jpg" width=170>
     </a>
 </h1>
 
@@ -41,7 +41,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
   - [React]、[Ruby on Rails]など（[Next.js]で書き換え中）
   - [Electron]を使ってデスクトップアプリ化も
 
-<img src="../image/web.png" width=500 height=510>
+<img src="https://user-images.githubusercontent.com/66750091/235298539-85f08cab-1c51-49f8-bac9-7e8019d6b32a.png" width=500 height=510>
 </details>
 
 
@@ -55,7 +55,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 - 使用技術
   - [C++]、[Visual Studio]など（画像は[Rust]を用いて書き換え中のもの）
 
-<img src="../image/desk.png" width=700 height=510>
+<img src="https://user-images.githubusercontent.com/66750091/235298503-58449b05-2a1f-430c-8445-dd2cb224ef1e.png" width=700 height=510>
 </details>
 
 ## $\text{要項}$
@@ -84,7 +84,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 
 [申し込みフォーム]（Google Form）
 
-<img src="../img/../image/QR.png" width=200>
+<img src="https://user-images.githubusercontent.com/66750091/235298447-91bd1f50-b171-44c6-81c1-921051310722.png" width=200>
 
 
 
