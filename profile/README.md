@@ -84,8 +84,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 
 [申し込みフォーム]（Google Form）
 
-![QR](../image/QR.png)
-
+<img src="https://raw.githubusercontent.com/kangi3d/.github/main/image/QR.png" width=200>
 
 
 <!-- links -->
