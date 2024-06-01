@@ -71,10 +71,10 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
   - 言語：[TypeScript]、[C++]、[Rust] など
   - ソフトウェア、フレームワーク等：[Linux]、[Docker]、[Next.js]、[MySQL]、[GCP]、[Electron]、[Druid]、[Raspberry Pi]、[OpenCV]など
 - 対象、以下を満たすのが好ましい
-  - 長く働ける方歓迎
+  - 4年以上勤務できる大学生/大学院生
+  - 日本語でコミュニケーションが可能な方
   - プログラミングを学ぶモチベーション、既存のプログラムを改善していく意欲のある方
-  - 現在のコンピュータに関する知識レベルは問わない
-  - プログラミング初心者も歓迎、研修期間あり（その間の減給なし）
+  - 学部1, 2回生の方はプログラミング初心者でも歓迎、研修期間あり（その間の減給なし）
   - Windows、Mac、もしくはLinuxのノートPCを持参のこと
 - 採用の決め方
   - 募集人員：1〜2人
@@ -105,5 +105,5 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 [Visual Studio]: https://visualstudio.microsoft.com/ja/
 [GCP]: https://cloud.google.com
 [OpenCV]: https://opencv.org/
-[申し込みフォーム]: https://forms.gle/WrQDg8bh694vM6GJ7
+[申し込みフォーム]: https://forms.gle/iuHEpQTFgqon4ftL9
 <!-- links -->
