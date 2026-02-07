@@ -69,7 +69,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
   - 第四土曜日：事務所、17:45〜20:45
 - 使用技術
   - 言語：[TypeScript]、[C++]、[Rust] など
-  - ソフトウェア、フレームワーク等：[Linux]、[Docker]、[Next.js]、[MySQL]、[GCP]、[Electron]、[Druid]、[Raspberry Pi]、[OpenCV]など
+  - ソフトウェア、フレームワーク等：[Linux]、[Docker]、[Next.js]、[MySQL]、[GCP]、[Electron]、[Tauri]、[Raspberry Pi]、[OpenCV]など
 - 対象、以下を満たすのが好ましい
   - 4年以上勤務できる大学生/大学院生
   - 日本語でコミュニケーションが可能な方
