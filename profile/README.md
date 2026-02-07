@@ -15,7 +15,7 @@
 - 事務所所在地：奈良県香芝市
   - 近鉄大阪線 [五位堂駅] 徒歩10分
 - 社員：10人程度
-- プログラム組：アルバイトの京大生（現在4人）
+- プログラム組：アルバイトの京大生（現在5人）
   - 主な作業場所は京大構内および事務所です。
   - OB・OGは企業や大学でエンジニアリングを仕事にしています。
 - 会社ホームページ：[kangi-web]
@@ -66,7 +66,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 - 給与：月給制、3万〜（実力に応じて要相談）
 - 時間・場所（毎週土曜日の3時間、テスト前や外せない用事があれば欠席可）
   - 第四土曜日以外の土曜日：京大構内、15:30〜18:30
-  - 第四土曜日：事務所、17:30〜20:30
+  - 第四土曜日：事務所、17:45〜20:45
 - 使用技術
   - 言語：[TypeScript]、[C++]、[Rust] など
   - ソフトウェア、フレームワーク等：[Linux]、[Docker]、[Next.js]、[MySQL]、[GCP]、[Electron]、[Druid]、[Raspberry Pi]、[OpenCV]など
@@ -82,9 +82,8 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 
 ### Contact
 
-[申し込みフォーム]（Google Form）
+[申し込みフォーム]（https://docs.google.com/forms/d/e/1FAIpQLScMauRaHyRM6OPM-L4MsAcRQ9Fxh8EnZzPxgw7OTm0Bc_cD5g/viewform?usp=dialog）
 
-<img src="https://raw.githubusercontent.com/kangi3d/.github/main/image/QR.png" width=200>
 
 
 <!-- links -->
@@ -98,7 +97,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 [Next.js]: https://nextjs.org/
 [MySQL]: https://www.mysql.com/jp/
 [Electron]: https://www.electronjs.org/
-[Druid]: https://github.com/linebender/druid
+[Tauri]: https://v2.tauri.app/ja/
 [Raspberry Pi]: https://www.raspberrypi.org/
 [React]: https://react.dev/
 [Ruby on Rails]: https://rubyonrails.org/
