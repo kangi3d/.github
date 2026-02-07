@@ -82,7 +82,7 @@ Webシステム、デスクトップアプリ、センサーやラズパイを�
 
 ### Contact
 
-[申し込みフォーム]（https://docs.google.com/forms/d/e/1FAIpQLScMauRaHyRM6OPM-L4MsAcRQ9Fxh8EnZzPxgw7OTm0Bc_cD5g/viewform?usp=dialog）
+[申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLScMauRaHyRM6OPM-L4MsAcRQ9Fxh8EnZzPxgw7OTm0Bc_cD5g/viewform?usp=dialog)
 
 
 
